@@ -1,0 +1,107 @@
+{
+  "id": "2272402",
+  "name": "tqms_icon",
+  "font_family": "al-iconfont",
+  "css_prefix_text": "ali-icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15838425",
+      "name": "add-circle",
+      "font_class": "add-circle",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "11372647",
+      "name": "创作",
+      "font_class": "chuangzuo",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "15838430",
+      "name": "ashbin",
+      "font_class": "ashbin",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "11488103",
+      "name": "prompt",
+      "font_class": "prompt",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "375650",
+      "name": "Evaluation",
+      "font_class": "pingjia",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "766689",
+      "name": "date",
+      "font_class": "riqi2",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "772990",
+      "name": "evaluation",
+      "font_class": "evaluation",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "11215245",
+      "name": "id",
+      "font_class": "id",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "11488079",
+      "name": "namecard",
+      "font_class": "namecard",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "11686855",
+      "name": "id",
+      "font_class": "id1",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "13037231",
+      "name": "teacher head-fill",
+      "font_class": "teacherhead-fill",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "278278",
+      "name": "advice",
+      "font_class": "advice",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "141405",
+      "name": "185078 - email mail streamline",
+      "font_class": "185078emailmailstreamline",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "9454025",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    }
+  ]
+}
